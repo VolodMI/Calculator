@@ -136,10 +136,8 @@ public class Controller {
             this.number=0;
             this.operation='A';
         });
-
-
-
     }
+    
     void equalMethod(){
         switch (this.operation){
             case '+':
