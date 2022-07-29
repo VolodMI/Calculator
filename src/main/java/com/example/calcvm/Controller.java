@@ -153,7 +153,7 @@ public class Controller {
                 if (Integer.parseInt(this.str_num)!=0)
                     res = this.number / Float.parseFloat(this.str_num);
                 else
-                    res = 99999999;
+                    res = 999999999;
                 break;
 
         }
